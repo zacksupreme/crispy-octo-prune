@@ -171,11 +171,6 @@ License: You must have a valid license purchased only from themeforest(the above
 							<i class="fa fa-download"></i>
 							Import Data Pengujian</a>
 						</li>
-						<li>
-							<a href="<?php echo base_url() ?>peramalan/grafik">
-							<i class="icon-bar-chart"></i>
-							Grafik Pengujian</a>
-						</li>
 					</ul>
 				</li>
 				<!-- END ANGULARJS LINK -->

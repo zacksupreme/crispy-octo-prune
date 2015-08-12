@@ -65,7 +65,13 @@ class Peramalan extends CI_Controller{
 	function delete($date_encrypt){
 		$date = date('Y-m-d H:i:s',strtotime($this->encrypt->safe_b64decode($date_encrypt)));
 		$data['data_uji'] = $this->db->query("delete from data_uji where data_uji_tanggal='".$date."'");
-		// $this->template->load('default',$this->folder.'/import',$data);
 		redirect('peramalan/import');
+	}
+
+	function grafik($date_encrypt){
+		$date = date('Y-m-d H:i:s',strtotime($this->encrypt->safe_b64decode($date_encrypt)));
+		$data['data_peramalan'] = $this->db->query("select * from data_uji where data_uji_tanggal='".$date."'  order by data_uji_tanggal asc")->result();
+		// print_r($data['data_peramalan']);
+		$this->template->load('default',$this->folder.'/grafik',$data);
 	}
 }
