@@ -61,4 +61,11 @@ class Peramalan extends CI_Controller{
 		$data['date'] = $date;
 		$this->template->load('default',$this->folder.'/detail',$data);
 	}
+
+	function delete($date_encrypt){
+		$date = date('Y-m-d H:i:s',strtotime($this->encrypt->safe_b64decode($date_encrypt)));
+		$data['data_uji'] = $this->db->query("delete from data_uji where data_uji_tanggal='".$date."'");
+		// $this->template->load('default',$this->folder.'/import',$data);
+		redirect('peramalan/import');
+	}
 }

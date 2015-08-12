@@ -61,7 +61,7 @@
 									<i class="fa fa-calendar"></i> Date
 								</th>
 								<th>
-									Option
+									Operation
 								</th>
 							</tr>
 						</thead>
@@ -77,6 +77,10 @@
 								
 								<td>
 									<a href="<?php echo site_url('peramalan/detail/'.$this->encrypt->safe_b64encode(date('m/d/Y H:i:s',strtotime($d->data_uji_tanggal))))?>" class="btn btn-primary btn-sm">Detail</a>
+
+									<a href="#modal_delete" role="button" class="btn red btn-sm" data-toggle="modal">
+									<i class="fa fa-remove"></i> Delete </a>
+									
 								</td>
 							</tr>
 							<?php $no++;} ?>
@@ -89,3 +93,23 @@
 		
 	</div>
 </div>
+
+<div id="modal_delete" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3" aria-hidden="true">
+								<div class="modal-dialog">
+									<div class="modal-content">
+										<div class="modal-header">
+											<button type="button" class="close" data-dismiss="modal" aria-hidden="true"></button>
+											<h4 class="modal-title">Konfirmasi Penghapusan</h4>
+										</div>
+										<div class="modal-body">
+											<p>
+												 Anda yakin?
+											</p>
+										</div>
+										<div class="modal-footer">
+											<button class="btn default" data-dismiss="modal" aria-hidden="true">Close</button>
+											<a href="<?php echo site_url('peramalan/delete/'.$this->encrypt->safe_b64encode(date('m/d/Y H:i:s',strtotime($d->data_uji_tanggal))))?>" class="btn btn-danger">Delete</a>
+										</div>
+									</div>
+								</div>
+							</div>
