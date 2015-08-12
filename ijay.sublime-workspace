@@ -1,0 +1,1231 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"array_data",
+				"$array_data_1〔variable〕"
+			],
+			[
+				"strto",
+				"strtotime〔function〕"
+			],
+			[
+				"fore",
+				"$forecasting_value〔variable〕"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"array",
+				"$array_linguistik〔variable〕"
+			],
+			[
+				"arra",
+				"$array_linguistik〔variable〕"
+			],
+			[
+				"arr",
+				"$array_occ〔variable〕"
+			],
+			[
+				"jawab",
+				"$jawab〔variable〕"
+			],
+			[
+				"penyakit",
+				"penyakit_id"
+			],
+			[
+				"pasien",
+				"pasien_id=p"
+			],
+			[
+				"cal",
+				"calculate_symptom〔function〕"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"hepatitis",
+				"hepatitis_c"
+			],
+			[
+				"paddi",
+				"padding-left: 〔property〕"
+			],
+			[
+				"member",
+				"$membership〔variable〕"
+			],
+			[
+				"def",
+				"$defuzzyfikasi〔variable〕"
+			],
+			[
+				"pase",
+				"pasien_id"
+			],
+			[
+				"over",
+				"overflow-y: 〔property〕"
+			],
+			[
+				"atura",
+				"aturan_id"
+			],
+			[
+				"are",
+				"area_anteseden"
+			],
+			[
+				"area",
+				"area_konsekuen"
+			],
+			[
+				"rule",
+				"rule_no〔variable〕"
+			],
+			[
+				"modal",
+				"modal_delete_rule"
+			],
+			[
+				"fuzzy",
+				"fuzzy_set_nama,g"
+			],
+			[
+				"hasil",
+				"hasil_lab_nama,f"
+			],
+			[
+				"atur",
+				"aturan_id"
+			],
+			[
+				"gejal",
+				"gejala_nama"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"fu",
+				"fuzzy_set_nama"
+			],
+			[
+				"gejala",
+				"gejala_id"
+			],
+			[
+				"linea",
+				"linear_curve_up"
+			],
+			[
+				"kur",
+				"kurva_id"
+			],
+			[
+				"fuzzy_s",
+				"fuzzy_set_id"
+			],
+			[
+				"hasil_lab",
+				"hasil_lab_id"
+			],
+			[
+				"him",
+				"$himpunan_fuzzy〔variable〕"
+			],
+			[
+				"hasil_la",
+				"hasil_lab_id"
+			],
+			[
+				"requi",
+				"require_once〔keyword〕"
+			],
+			[
+				"reca",
+				"recaptchalib"
+			],
+			[
+				"block",
+				"inline-block〔value〕"
+			],
+			[
+				"is_nu",
+				"is_numeric〔function〕"
+			],
+			[
+				"id_",
+				"$id_peserta〔variable〕"
+			],
+			[
+				"getNila",
+				"getNilaiPerSubSesi〔function〕"
+			],
+			[
+				"ID",
+				"ID_KELAS"
+			],
+			[
+				"jumlah",
+				"$jumlah_prosentase〔variable〕"
+			],
+			[
+				"jumla",
+				"$jumlah_prosentase〔variable〕"
+			],
+			[
+				"get",
+				"get	$.get()"
+			],
+			[
+				"temp",
+				"temp_file〔variable〕"
+			],
+			[
+				"send",
+				"sendScore"
+			],
+			[
+				"Peserta",
+				"PesertaKelas〔class〕"
+			],
+			[
+				"query",
+				"queryRow"
+			],
+			[
+				"dir",
+				"$dir_path〔variable〕"
+			],
+			[
+				"set",
+				"set_status"
+			],
+			[
+				"id_pus",
+				"id_pustaka"
+			],
+			[
+				"En",
+				"Enrollment"
+			],
+			[
+				"TGL_",
+				"TGL_START"
+			],
+			[
+				"de",
+				"deletePengayaanByBankSoal〔function〕"
+			],
+			[
+				"id_na",
+				"id_bank_soal"
+			],
+			[
+				"en",
+				"encrypt_id"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"cl",
+				"click〔function〕"
+			],
+			[
+				"bo",
+				"bobot_benar"
+			],
+			[
+				"fil",
+				"filter,sort"
+			],
+			[
+				"data",
+				"data_quiz〔variable〕"
+			],
+			[
+				"Quiz",
+				"QuizKelas〔class〕"
+			],
+			[
+				"create",
+				"create_link_kelas〔function〕"
+			],
+			[
+				"apps_pub",
+				"apps_published_at"
+			],
+			[
+				"ID_",
+				"ID_PENGGUNA"
+			],
+			[
+				"icon",
+				"icon_color〔variable〕"
+			],
+			[
+				"var",
+				"varWarn〔variable〕"
+			],
+			[
+				"APPS",
+				"APPS_ID"
+			],
+			[
+				"margin",
+				"margin-bottom: 〔property〕"
+			],
+			[
+				"ab",
+				"absolute〔value〕"
+			],
+			[
+				"apps_",
+				"apps_id"
+			],
+			[
+				"publ",
+				"$published〔variable〕"
+			],
+			[
+				"id",
+				"$id_jenis_pendidikan〔variable〕"
+			],
+			[
+				"apps",
+				"apps_admin/delete"
+			],
+			[
+				"TbMPE",
+				"TbMPengguna〔class〕"
+			],
+			[
+				"creat",
+				"create_link_apps"
+			],
+			[
+				"APPS_CON",
+				"APPS_CONTENT_TYPE"
+			],
+			[
+				"Pro",
+				"ProfileUser〔class〕"
+			],
+			[
+				"Kontri",
+				"Kontributor"
+			],
+			[
+				"wher",
+				"$where_query〔variable〕"
+			],
+			[
+				"P",
+				"PRIVASI"
+			],
+			[
+				"user",
+				"user_username"
+			],
+			[
+				"chec",
+				"checkRatingByPengguna"
+			],
+			[
+				"instit",
+				"$institusi〔variable〕"
+			],
+			[
+				"data_us",
+				"data_user_view〔variable〕"
+			],
+			[
+				"ins",
+				"$institusi〔variable〕"
+			],
+			[
+				"contr",
+				"$contributor〔variable〕"
+			],
+			[
+				"bac",
+				"background-color: 〔property〕"
+			],
+			[
+				"pos",
+				"position: 〔property〕"
+			],
+			[
+				"preview",
+				"preview_soal"
+			],
+			[
+				"ba",
+				"background-color: 〔property〕"
+			],
+			[
+				"rad",
+				"radioPrimary"
+			],
+			[
+				"sa",
+				"safe_b64encode〔function〕"
+			],
+			[
+				"que",
+				"queryAll"
+			],
+			[
+				"tb_m_p",
+				"tb_m_pustaka_peserta"
+			],
+			[
+				"new",
+				"$new_soal〔variable〕"
+			],
+			[
+				"TbMPe",
+				"TbMPengguna〔class〕"
+			],
+			[
+				"toolt",
+				"tooltips"
+			],
+			[
+				"tool",
+				"tooltips"
+			],
+			[
+				"TbM",
+				"TbMKegiatanPeserta"
+			],
+			[
+				"unde",
+				"undefined〔keyword〕"
+			],
+			[
+				"findBy",
+				"findByPk"
+			],
+			[
+				"TbMKe",
+				"TbMKegiatanPeserta〔class〕"
+			],
+			[
+				"Dindin",
+				"Dinding〔class〕"
+			],
+			[
+				"type_",
+				"type_penerima"
+			],
+			[
+				"type",
+				"$type_pemberitahuan〔variable〕"
+			],
+			[
+				"getT",
+				"getStatusTime"
+			],
+			[
+				"add",
+				"addNotification〔function〕"
+			],
+			[
+				"in",
+				"invite_parent"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"is_lo",
+				"is_logged_in"
+			],
+			[
+				"create_lin",
+				"create_link_member"
+			],
+			[
+				"menu",
+				"menu_active〔variable〕"
+			],
+			[
+				"contac",
+				"contact_us"
+			],
+			[
+				"setF",
+				"setFetchMode"
+			],
+			[
+				"print",
+				"print_r〔function〕"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"quest",
+				"question_collection_description"
+			],
+			[
+				"err",
+				"error_share〔variable〕"
+			],
+			[
+				"moda",
+				"modal_add_link"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"is",
+				"is_user_login"
+			],
+			[
+				"META",
+				"META_TITLE"
+			],
+			[
+				"member_in",
+				"member_invite_teacher"
+			],
+			[
+				"JUDUL_",
+				"JUDUL_TUGAS"
+			],
+			[
+				"d",
+				"div"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "application/controllers/welcome.php",
+			"settings":
+			{
+				"buffer_size": 5159,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/views/gold.php",
+			"settings":
+			{
+				"buffer_size": 4775,
+				"line_ending": "Windows",
+				"name": "gold.php"
+			}
+		},
+		{
+			"file": "application/controllers/training.php",
+			"settings":
+			{
+				"buffer_size": 9756,
+				"line_ending": "Windows",
+				"name": "training.php"
+			}
+		},
+		{
+			"file": "application/views/training/import.php",
+			"settings":
+			{
+				"buffer_size": 2259,
+				"line_ending": "Windows",
+				"name": "import.php"
+			}
+		},
+		{
+			"file": "application/views/layout/default.php",
+			"settings":
+			{
+				"buffer_size": 13840,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 118.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/xampp/htdocs/ijay/application/config/autoload.php",
+		"/D/xampp/htdocs/ijay/application/views/layout/default.php",
+		"/D/xampp/htdocs/ijay/application/views/training/grafik.php",
+		"/D/xampp/htdocs/ijay/application/views/training/proses.php",
+		"/D/xampp/htdocs/ijay/application/libraries/Template.php",
+		"/D/xampp/htdocs/ijay/application/config/database.php",
+		"/D/xampp/htdocs/pardede/application/libraries/certainty_factor.php",
+		"/D/xampp/htdocs/pardede/application/controllers/periksa.php",
+		"/D/xampp/htdocs/pardede/application/views/admin/data_pasien/list.php",
+		"/D/xampp/htdocs/pardede/application/models/pasien_mdl.php",
+		"/D/xampp/htdocs/pardede/application/libraries/implikasi.php",
+		"/D/xampp/htdocs/pardede/application/controllers/admin/data_pasien.php",
+		"/D/xampp/htdocs/pardede/application/views/admin/data_pasien/detail.php",
+		"/D/xampp/htdocs/pardede/application/views/periksa/diagnosis.php",
+		"/D/xampp/htdocs/pardede/application/libraries/defuzzyfikasi.php",
+		"/D/xampp/htdocs/pardede/application/views/periksa/pertanyaan.php",
+		"/D/xampp/htdocs/pardede/application/views/periksa/periksa.php",
+		"/D/xampp/htdocs/pardede/application/libraries/membership_function.php",
+		"/D/xampp/htdocs/pardede/application/views/admin/data_gejala/gejala.php",
+		"/D/xampp/htdocs/pardede/application/models/gejala_mdl.php",
+		"/D/xampp/htdocs/pardede/application/controllers/admin/data_gejala.php",
+		"/D/xampp/htdocs/pardede/application/views/admin/data_gejala/grafik.php",
+		"/D/xampp/htdocs/pardede/application/views/layout/admin.php",
+		"/D/xampp/htdocs/pardede/application/controllers/admin/data_aturan.php",
+		"/D/xampp/htdocs/pardede/application/views/admin/data_aturan/aturan.php",
+		"/D/xampp/htdocs/pardede/application/models/aturan_mdl.php",
+		"/D/xampp/htdocs/pardede/application/controllers/beranda.php",
+		"/D/xampp/htdocs/pardede/application/views/layout/default.php",
+		"/D/xampp/htdocs/pardede/application/views/layout/default2.php",
+		"/D/xampp/htdocs/pardede/application/views/penyakit/index.php",
+		"/D/xampp/htdocs/pardede/assets2/admin/layout3/scripts/custom.js",
+		"/D/xampp/htdocs/pardede/application/controllers/penyakit.php",
+		"/D/xampp/htdocs/pardede/application/libraries/breadcrumb.php",
+		"/D/xampp/htdocs/pardede/application/views/layout/widget/breadcrumb.php",
+		"/D/xampp/htdocs/pardede/application/config/config.php",
+		"/D/xampp/htdocs/pardede/application/controllers/admin/dashboard.php",
+		"/D/xampp/htdocs/pardede/application/views/admin/data_gejala/edit.php",
+		"/D/xampp/htdocs/pardede/application/config/autoload.php",
+		"/D/xampp/htdocs/pardede/assets/js/custom.js",
+		"/D/xampp/htdocs/pardede/assets/plugins/offcanvasmenueffects/js/main.js",
+		"/D/xampp/htdocs/pardede/application/models/all_model_mdl.php",
+		"/D/xampp/htdocs/pardede/application/views/beranda/beranda.php",
+		"/D/xampp/htdocs/pardede/pardede.sublime-project",
+		"/D/xampp/htdocs/pardede/pardede.sublime-workspace",
+		"/D/xampp/htdocs/pardede/application/views/admin/dashboard/dashboard.php",
+		"/D/xampp/htdocs/pardede/application/views/auth/login.php",
+		"/D/xampp/htdocs/pardede/application/controllers/login.php",
+		"/D/xampp/htdocs/pardede/application/models/auth/users.php",
+		"/D/xampp/htdocs/pardede/application/libraries/Auth.php",
+		"/D/xampp/htdocs/pardede/application/helpers/excel_helper.php",
+		"/D/xampp/htdocs/pardede/application/config/database.php",
+		"/D/xampp/htdocs/pardede/application/views/admin/auth/login.php",
+		"/D/xampp/htdocs/pardede/application/controllers/errors.php",
+		"/D/xampp/htdocs/pardede/application/controllers/admin/beranda.php",
+		"/D/xampp/htdocs/pardede/application/controllers/Beranda.php",
+		"/D/xampp/htdocs/pardede/application/controllers/home.php",
+		"/D/xampp/htdocs/pardede/application/libraries/membership.php",
+		"/D/xampp/htdocs/pardede/application/models/pencahayaan.php",
+		"/D/xampp/htdocs/pardede/application/models/kebisingan.php",
+		"/D/xampp/htdocs/pardede/application/models/suhu.php",
+		"/D/xampp/htdocs/pardede/application/libraries/rule_base.php",
+		"/D/xampp/htdocs/pardede/application/controllers/welcome.php",
+		"/D/xampp/htdocs/kelase/protected/messages/en/member.php",
+		"/D/xampp/htdocs/kelase/protected/messages/id/member.php",
+		"/D/xampp/htdocs/kelase/protected/controllers/member/PertemananController.php",
+		"/D/xampp/htdocs/kelase/protected/components/member/Pertemanan.php",
+		"/D/xampp/htdocs/kelase/protected/components/Pemberitahuan.php",
+		"/D/xampp/htdocs/kelase/protected/controllers/ServiController.php",
+		"/D/xampp/htdocs/kelase/protected/controllers/service/MbrController.php",
+		"/D/xampp/htdocs/kelase/themes/v3/views/layouts/member.php",
+		"/D/xampp/htdocs/kelase/assets/v3/js/custom.js",
+		"/D/xampp/htdocs/kelase/protected/components/widget/views/sidebar_institution_profile.php",
+		"/D/xampp/htdocs/kelase/protected/controllers/HomeController.php",
+		"/D/xampp/htdocs/kelase/protected/config/main.php",
+		"/D/xampp/htdocs/kelase/protected/controllers/member/Bank_soalController.php",
+		"/D/xampp/htdocs/kelase/themes/v3/views/member/bank_soal/detail_other.php",
+		"/D/xampp/htdocs/kelase/themes/v3/views/member/bank_soal/detail.php",
+		"/D/xampp/htdocs/kelase/themes/v3/views/home/contact_us.php",
+		"/D/xampp/htdocs/kelase/protected/models/ContactFormWeb.php",
+		"/D/xampp/htdocs/kelase/protected/messages/en/contact_us.php",
+		"/D/xampp/htdocs/kelase/protected/models/register/RegisterInstitution.php",
+		"/D/xampp/htdocs/kelase/protected/messages/id/contact_us.php",
+		"/D/xampp/htdocs/kelase/protected/models/ContactForm.php",
+		"/D/xampp/htdocs/kelase/protected/vendors/reCaptcha/recaptchalib.php",
+		"/D/xampp/htdocs/kelase/protected/controllers/kelas/QuizController.php",
+		"/D/xampp/htdocs/kelase/protected/messages/en/general.php",
+		"/D/xampp/htdocs/kelase/protected/messages/id/general.php",
+		"/D/xampp/htdocs/kelase/mkelase/protected/models/ContactForm.php",
+		"/D/xampp/htdocs/kelase/protected/messages/id/learning.php",
+		"/D/xampp/htdocs/kelase/protected/messages/en/learning.php",
+		"/D/xampp/htdocs/kelase/assets/js/countdown.js",
+		"/D/xampp/htdocs/kelase/themes/v3/views/kelas/quiz/quiz.php",
+		"/D/xampp/htdocs/kelase/themes/v3/views/kelas/quiz/detail.php",
+		"/D/xampp/htdocs/kelase/themes/v3/views/kelas/report/grafik_task.php",
+		"/D/xampp/htdocs/kelase/themes/v3/views/kelas/report/grafik_siswa_quiz.php",
+		"/D/xampp/htdocs/kelase/themes/v3/views/kelas/report/grafik_siswa_task.php",
+		"/D/xampp/htdocs/kelase/themes/v3/views/kelas/report/grafik_quiz.php",
+		"/D/xampp/htdocs/kelase/protected/controllers/kelas/ReportController.php",
+		"/D/xampp/htdocs/kelase/protected/components/kelas/PesertaKelas.php",
+		"/D/xampp/htdocs/kelase/themes/v3/views/kelas/report/detail_admin.php",
+		"/D/xampp/htdocs/kelase/themes/v3/views/kelas/report/detail_kemajuan.php",
+		"/D/xampp/htdocs/kelase/themes/v3/views/kelas/report/detail_nilai.php",
+		"/D/xampp/htdocs/kelase/protected/components/kelas/ReportKelas.php",
+		"/D/xampp/htdocs/kelase/themes/v3/views/kelas/quiz/question_analysis.php",
+		"/D/xampp/htdocs/kelase/protected/components/kelas/QuizKelas.php",
+		"/D/xampp/htdocs/kelase/protected/components/kelas/TugasKelas.php",
+		"/D/xampp/htdocs/kelase/themes/v3/views/kelas/quiz/quiz_analysis.php",
+		"/D/xampp/htdocs/kelase/themes/v3/views/kelas/report/detail.php",
+		"/D/xampp/htdocs/kelase/themes/v3/views/kelas/beranda/beranda.php",
+		"/D/xampp/htdocs/kelase/assets/v3/js/learning/report/main.js",
+		"/D/xampp/htdocs/kelase/protected/controllers/kelas/BerandaController.php",
+		"/D/xampp/htdocs/kelase/protected/controllers/kelas/TugasController.php",
+		"/D/xampp/htdocs/kelase/themes/v3/views/kelas/tugas/detail_nilai.php",
+		"/D/xampp/htdocs/kelase/themes/v3/views/kelas/tugas/daftar_siswa.php",
+		"/D/xampp/htdocs/kelase/protected/vendors/box_view/example.php",
+		"/D/xampp/htdocs/kelase/themes/v3/views/kelas/tugas/detail.php",
+		"/D/xampp/htdocs/kelase/assets/v3/js/learning/task/main.js",
+		"/D/xampp/htdocs/kelase/assets/v3/js/learning/task/detail_s.js",
+		"/D/xampp/htdocs/kelase/protected/controllers/service/KlsController.php",
+		"/D/xampp/htdocs/kelase/protected/controllers/member/InviteController.php",
+		"/D/xampp/htdocs/kelase/themes/v3/views/apps/detail.php",
+		"/D/xampp/htdocs/kelase/protected/components/widget/views/breadcumb.php",
+		"/D/xampp/htdocs/kelase/protected/components/widget/views/sidebar_new_educontent.php",
+		"/D/xampp/htdocs/kelase/themes/v3/views/kelas/tugas/_detail.php",
+		"/D/xampp/htdocs/kelase/assets/v3/js/learning/task/detail.js",
+		"/D/xampp/htdocs/kelase/protected/components/member/ProfileUser.php",
+		"/D/xampp/htdocs/kelase/themes/v3/views/kelas/quiz/detail_quiz_nilai.php",
+		"/D/xampp/htdocs/kelase/protected/components/UploadHandlerTugas.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"../../assets",
+			";\n",
+			">\";\n",
+			";\n",
+			">\n",
+			"));\n",
+			"/>\n",
+			">\n",
+			"../../assets/",
+			"../../assets",
+			"asdads",
+			"\"\n",
+			"']?>\"",
+			"'),\n",
+			"']);\n",
+			"fuzzy_set_nama",
+			"]];\n",
+			"assets",
+			"permintaan",
+			"parseHeaders",
+			"parseResponse",
+			"httpRequest",
+			"Document",
+			"Box_View_Exception",
+			"curlInstalled",
+			"sessio",
+			"refreshDocumentMetaData",
+			"upload",
+			"';\n",
+			"impo",
+			">\";\n",
+			"Import",
+			"duplicat",
+			"masuk",
+			"masu",
+			"reque",
+			"wrong",
+			"question_next",
+			"isRetina",
+			"init(i)",
+			"t.init(i)",
+			"t.init(i)}()",
+			"',\n",
+			"i class=\"icon",
+			"icon",
+			"act",
+			">\n",
+			"',\n",
+			"isRetina",
+			"icon",
+			"remove",
+			" {",
+			"{",
+			" {",
+			"height: 22px;",
+			"width: 22px;",
+			"background-image",
+			"</i>",
+			"<i class=\"fa",
+			"</i>",
+			"<i class=\"fa",
+			"</i>",
+			"<i class=\"fa",
+			"</i>",
+			"<i class=\"fa",
+			"</i>",
+			"<i class=\"fa",
+			"</i>",
+			"<i class=\"fa",
+			"</i>",
+			"<i class=\"fa",
+			"</i>",
+			"<i class=\"fa",
+			"</i>",
+			"<i class=\"fa",
+			"</i>",
+			"<i class=\"fa",
+			"</i>",
+			"<i class=\"fa",
+			"</i>",
+			"<i class=\"fa",
+			"</i>",
+			"<i class=\"fa",
+			"</i>",
+			"<i class=\"fa",
+			"</i>",
+			"<i class=\"fa",
+			"</i>",
+			"<i class=\"fa",
+			"</i>",
+			"<i class=\"fa",
+			"<i ",
+			"</i>",
+			"<i class=\"fa",
+			"</i>",
+			"<i class=\"fa",
+			"</i>",
+			"<i class=\"fa",
+			"</i>",
+			"<i class=\"fa",
+			"</i>",
+			"<i class=\"fa",
+			"</i>",
+			"<i class=\"fa",
+			"</i>",
+			"<i class=\"fa",
+			"</i>",
+			"<i class=\"fa",
+			"</i>",
+			"<i class=\"fa",
+			"</i>",
+			"<i class=\"fa",
+			"</i>",
+			"<i class=\"fa",
+			"</i>",
+			"<i class=\"fa",
+			"</i>",
+			"<i class=\"fa",
+			"</i>",
+			"<i class=\"fa",
+			"</i>",
+			"<i class=\"fa",
+			"</i>",
+			"<i class=\"fa",
+			"</i>",
+			"<i class=\"fa",
+			"</i>",
+			"<i class=\"fa"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"<?php echo base_url().'assets'?>",
+			"<?php echo base_url().'assets2/'?>",
+			"<?php echo assets_url()?>",
+			"div class=\"icon",
+			":before { ",
+			" ",
+			"",
+			"content",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"<div ",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>",
+			"<div class=\"fa",
+			"</div>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "application/controllers/welcome.php",
+					"settings":
+					{
+						"buffer_size": 5159,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								930,
+								4972
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1483.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "application/views/gold.php",
+					"settings":
+					{
+						"buffer_size": 4775,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1533,
+								1597
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_name": "gold.php",
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 756.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "application/controllers/training.php",
+					"settings":
+					{
+						"buffer_size": 9756,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3450,
+								3450
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_name": "training.php",
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1005.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "application/views/training/import.php",
+					"settings":
+					{
+						"buffer_size": 2259,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2077,
+								2077
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_name": "import.php",
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 864.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "application/views/layout/default.php",
+					"settings":
+					{
+						"buffer_size": 13840,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9152,
+								9152
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2898.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/D/xampp/htdocs/pardede/pardede.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 292.0,
+	"status_bar_visible": true
+}
