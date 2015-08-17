@@ -38,16 +38,16 @@ class Training extends CI_Controller{
 		        for ($row = 2; $row <= $highestRow; ++$row) {
 		        	$array_data = array(
 		        		'gold_history_date'=>date('Y-m-d',strtotime(PHPExcel_Style_NumberFormat::toFormattedString($objWorksheet->getCellByColumnAndRow(0, $row)->getValue(), 'm/d/Y'))),
-		        		'gold_history_close'=>$objWorksheet->getCellByColumnAndRow(1, $row)->getValue(),
+		        		'gold_history_close'=>round($objWorksheet->getCellByColumnAndRow(1, $row)->getValue(),2),
 		        	);
 		        	$this->db->insert('gold_history',$array_data);
 		        }
 		        $data['gold_history'] = $this->db->query("select * from gold_history order by gold_history_date asc")->result();
 	        	$data['min_max'] = $this->db->query("select min(gold_history_close) as min, max(gold_history_close) as max from gold_history limit 1")->row();
-	        	$min = $data['min_max']->min;
-		        $max = $data['min_max']->max;
+	        	$min = floor($data['min_max']->min);
+		        $max = ceil($data['min_max']->max);
 				$diff = $max-$min;
-				$div = floor($diff/7);
+				$div = $diff/7;
 				$temp = 0;
 				$array_interval = array();
 				$array_occ = array();
@@ -64,8 +64,8 @@ class Training extends CI_Controller{
 				    }else{
 				        $temp_2 = $temp_1+$div;
 				    }
-				    $array_interval[$i]['min'] = $temp_1;
-				    $array_interval[$i]['max'] = $temp_2;
+				    $array_interval[$i]['min'] = round($temp_1);
+				    $array_interval[$i]['max'] = round($temp_2);
 				}
 				foreach($array_interval as $key=>$val){
 					if($key == 0){
@@ -98,7 +98,7 @@ class Training extends CI_Controller{
 				for($i=0;$i<7;$i++){
 				    if(isset($max_interval[$i])){
 				        $diff = $array_interval[$i]['max']-$array_interval[$i]['min'];
-				        $div = floor($diff/2);
+				        $div = round($diff/2);
 				        $temp_1 = $array_interval[$i]['min'];
 				        $temp_2 = $array_interval[$i]['min']+$div;
 				        $temp_11 = $temp_2;
@@ -182,28 +182,28 @@ class Training extends CI_Controller{
 		$data['history'] = $this->db->query("select gold_history_date as date,gold_history_close as close from gold_history order by gold_history_date Asc")->result();
         $data['min_max'] = $this->db->query("select min(gold_history_close) as min,max(gold_history_close) as max from gold_history")->row();
         $data['test'] = 478.4;
-        $min = $data['min_max']->min;
-        $max = $data['min_max']->max;
-		$diff = $max-$min;
-		$div = floor($diff/7);
-		$temp = 0;
-		$array_interval = array();
-		$array_occ = array();
-		for($i=0;$i<7;$i++){
-		    if($temp==0){
-		        $temp = $min;
-		    }else{
-		        $temp+=$div;
-		    }
-		    $min_d = $div/2;
-		    $temp_1 = $temp;
-		    if($i==6){
-		        $temp_2 = $max;
-		    }else{
-		        $temp_2 = $temp_1+$div;
-		    }
-		    $array_interval[$i]['min'] = $temp_1;
-		    $array_interval[$i]['max'] = $temp_2;
+        $min = floor($data['min_max']->min);
+		        $max = ceil($data['min_max']->max);
+				$diff = $max-$min;
+				$div = $diff/7;
+				$temp = 0;
+				$array_interval = array();
+				$array_occ = array();
+				for($i=0;$i<7;$i++){
+				    if($temp==0){
+				        $temp = $min;
+				    }else{
+				        $temp+=$div;
+				    }
+				    $min_d = $div/2;
+				    $temp_1 = $temp;
+				    if($i==6){
+				        $temp_2 = $max;
+				    }else{
+				        $temp_2 = $temp_1+$div;
+				    }
+				    $array_interval[$i]['min'] = round($temp_1);
+				    $array_interval[$i]['max'] = round($temp_2);
 		}
 		foreach($array_interval as $key=>$val){
 			if($key == 0){
@@ -229,7 +229,7 @@ class Training extends CI_Controller{
 		for($i=0;$i<7;$i++){
 		    if(isset($max_interval[$i])){
 		        $diff = $array_interval[$i]['max']-$array_interval[$i]['min'];
-		        $div = floor($diff/2);
+		        $div = round($diff/2);
 		        $temp_1 = $array_interval[$i]['min'];
 		        $temp_2 = $array_interval[$i]['min']+$div;
 		        $temp_11 = $temp_2;

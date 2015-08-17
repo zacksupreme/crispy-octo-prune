@@ -13,8 +13,6 @@ function find_linguistik_val($data_interval,$search_val){
 	}
 }
 ?>
-<p> Data Test : <b><?php echo $test?></b></p>
-
 
 <div class="portlet box red">
 	<div class="portlet-title">
@@ -302,4 +300,3 @@ foreach($array_linguistik as $key=>$val){
 </div>
 
 <br />
-<p>Hasil Peramalan : <strong><?php echo $forecasting_value?></strong></p>
